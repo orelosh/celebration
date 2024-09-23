@@ -1,0 +1,19 @@
+body {
+    font-famly: Arial, sans-serif; /* שגיאת כתיב ב'font-family' */
+    background-colr: #ffd9e6; /* שגיאת כתיב ב'background-color' */
+    text-align: center;
+}
+
+h1 {
+    color: pink;
+    text-shadow: 2px 2px; /* חסר ערך של השקיפות */
+}
+
+nav {
+    background-color: lightblue;
+}
+
+.product {
+    background-color: #ff1493;
+    border-radius: 20px;
+}
